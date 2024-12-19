@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="341.53" version="1.1" viewBox="0 0 1024 341.53" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/><dc:title/></cc:Work></rdf:RDF></metadata>
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<g transform="translate(0,-341.23)">
+	<path class="st0" d="m173.91 561.93c0 29.26-23.81 53.07-53.07 53.07s-53.07-23.81-53.07-53.07v-220.7h-67.77v220.7c0 66.63 54.21 120.83 120.83 120.83 66.63 0 120.83-54.21 120.83-120.83v-220.7h-67.76v220.7z"/>
+	<path class="st0" d="m903.17 341.23c-66.63 0-120.83 54.2-120.83 120.83v220.69h67.76v-41.55h106.14v41.56h67.76v-220.69c0-66.63-54.21-120.84-120.83-120.84zm-53.07 232.21v-111.37c0-29.26 23.81-53.07 53.07-53.07s53.07 23.81 53.07 53.07v111.37z"/>
+	<path class="st0" d="m598.95 341.23c-34.11 0-64.96 14.21-86.95 37.02-21.99-22.81-52.84-37.02-86.95-37.02-66.63 0-120.83 54.2-120.83 120.83v220.7h67.76v-220.7c0-29.26 23.81-53.07 53.07-53.07s53.07 23.81 53.07 53.07v220.7h67.76v-220.7c0-29.26 23.81-53.07 53.07-53.07s53.07 23.81 53.07 53.07v220.7h67.76v-220.7c0-66.62-54.2-120.83-120.83-120.83z"/>
+</g>
+</svg>
